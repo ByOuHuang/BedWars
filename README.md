@@ -6,7 +6,7 @@
 #
 
 ##### Java版本:
-###### | Java 8
+###### | Java 8  (推荐Java 11)
 
 ##### Minecraft版本:
 ###### | Spigot-1.8.9
