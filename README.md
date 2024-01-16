@@ -20,7 +20,11 @@
 ##### 插件依赖：
 ###### | ProtocolLib, Citizens
 
-#
+## 插件体验服务器
+- 梦想天堂 mc244.com/100mc.cc
+
+![image](1img.png)
+
 
 ## 更新日志
 
