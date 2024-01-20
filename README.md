@@ -18,7 +18,7 @@
 
 
 ##### 插件依赖：
-###### | ProtocolLib, Citizens
+###### | ProtocolLib, PlaceholderAPI, Citizens, LuckPerms
 
 ##### 支持系统：
 ###### | Windows, Linux
@@ -167,4 +167,5 @@
 #
 
 ## 未修复的BUG
+- 旁观者放置 旁观者设置 其他人会听到放声音
 - 剪刀死亡后会消失
