@@ -26,6 +26,7 @@
 
 ## 插件体验服务器
 - 梦想天堂 mc244.com/100mc.cc
+- FunnyArenaPixel play.fapixel.com
 
 ## 插件图片
 
